@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {     /* Specify module code generation: 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
+    "sourceMap": true,
+    "target": "ES5",
+    "typeRoots": ["node_modules/@types"]
+  }
+}
